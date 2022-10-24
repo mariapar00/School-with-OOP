@@ -1,10 +1,5 @@
 Άσκηση Java - Αντικειμενοστραφής Προγραμματισμός
 
-Όνομα: Μαρία Παρασκευοπούλου
-
-Α.Μ.: sdi1800155
-
-
 Οι κλάσεις που χρησιμοποιώ είναι: Space, Schoolyard, Stairs, Corridor, SchoolBuilding, Classroom, Person, Teacher, Student, Junior, Senior.
 
 Κληρονομικότητα:
